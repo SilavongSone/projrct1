@@ -1,0 +1,36 @@
+.a{
+    font-size: 120%;
+
+    font-weight: bold;
+
+}
+.b{
+    font-size: 100%;
+
+    font-weight: bold;
+
+}
+.c{
+    background-color: aqua;
+
+}
+d{
+    color: blue;
+}
+
+p{
+    margin: 0;
+    padding: 0;
+}
+.l{
+    font-family: Phetsarath OT;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 100%;
+    background: #f8f8f8;
+}
